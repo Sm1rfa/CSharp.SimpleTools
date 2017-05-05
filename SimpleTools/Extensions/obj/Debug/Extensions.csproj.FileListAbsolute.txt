@@ -1,0 +1,13 @@
+E:\Kea\ASP.NET\Random apps\SimpleTools\Extensions\bin\Debug\Extensions.dll
+E:\Kea\ASP.NET\Random apps\SimpleTools\Extensions\bin\Debug\Extensions.pdb
+E:\Kea\ASP.NET\Random apps\SimpleTools\Extensions\bin\Debug\Newtonsoft.Json.dll
+E:\Kea\ASP.NET\Random apps\SimpleTools\Extensions\bin\Debug\Newtonsoft.Json.xml
+E:\Kea\ASP.NET\Random apps\SimpleTools\Extensions\obj\Debug\Extensions.dll
+E:\Kea\ASP.NET\Random apps\SimpleTools\Extensions\obj\Debug\Extensions.pdb
+E:\Kea\ASP.NET and C#\Random apps\SimpleTools\Extensions\bin\Debug\Extensions.dll
+E:\Kea\ASP.NET and C#\Random apps\SimpleTools\Extensions\bin\Debug\Extensions.pdb
+E:\Kea\ASP.NET and C#\Random apps\SimpleTools\Extensions\bin\Debug\Newtonsoft.Json.dll
+E:\Kea\ASP.NET and C#\Random apps\SimpleTools\Extensions\bin\Debug\Newtonsoft.Json.xml
+E:\Kea\ASP.NET and C#\Random apps\SimpleTools\Extensions\obj\Debug\Extensions.csprojResolveAssemblyReference.cache
+E:\Kea\ASP.NET and C#\Random apps\SimpleTools\Extensions\obj\Debug\Extensions.dll
+E:\Kea\ASP.NET and C#\Random apps\SimpleTools\Extensions\obj\Debug\Extensions.pdb
